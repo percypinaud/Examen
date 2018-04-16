@@ -1,0 +1,26 @@
+*{
+	margin: auto 0;
+
+}
+body{
+	width: 1000px;
+	padding-left: 10%;
+}
+#caja{
+	margin-top:20px;
+	width:1200px;
+	height: 710px;
+	background-color:#6278FF;
+}
+header{
+	width: 1000px;
+	height: 90px;
+	
+	background-color: green;
+}
+#i{
+	width: 500px;
+	height: 90px;
+	background-color: red;
+	float: right;
+}
